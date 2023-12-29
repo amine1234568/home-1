@@ -20,25 +20,207 @@
             </ul>
         </nav>
     </header>
-
+    
     <section>
         <h2>Welcome to Sports Hub!</h2>
-        <p>Explore the latest news and information about various sports.</p>
+        <p>Explore information about various sports.</p>
     </section>
 
     <script src="script.js"></script>
 </body>
 </html>
 <!-- football.html -->
-<!-- Similar structure to index.html, but with content related to football -->
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="styles.css">
+    <title>Sports Hub - Football</title>
+</head>
+<body>
+    <header>
+        <h1>Sports Hub</h1>
+        <nav>
+            <ul>
+                <li><a href="index.html">Home</a></li>
+                <li><a href="football.html">Football</a></li>
+                <li><a href="basketball.html">Basketball</a></li>
+                <li><a href="tennis.html">Tennis</a></li>
+                <li><a href="cycling.html">Cycling</a></li>
+                <li><a href="swimming.html">Swimming</a></li>
+            </ul>
+        </nav>
+    </header>
+    
+    <section>
+        <h2>Football</h2>
+        <p>Football is a popular team sport...</p>
+    </section>
+
+    <script src="script.js"></script>
+</body>
+</html>
 <!-- basketball.html -->
-<!-- Similar structure to index.html, but with content related to basketball -->
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="styles.css">
+    <title>Sports Hub - Basketball</title>
+</head>
+<body>
+    <header>
+        <h1>Sports Hub</h1>
+        <nav>
+            <ul>
+                <li><a href="index.html">Home</a></li>
+                <li><a href="football.html">Football</a></li>
+                <li><a href="basketball.html">Basketball</a></li>
+                <li><a href="tennis.html">Tennis</a></li>
+                <li><a href="cycling.html">Cycling</a></li>
+                <li><a href="swimming.html">Swimming</a></li>
+            </ul>
+        </nav>
+    </header>
+    
+    <section>
+        <h2>Basketball</h2>
+        <p>Basketball is a fast-paced team sport...</p>
+    </section>
+
+    <script src="script.js"></script>
+</body>
+</html>
 <!-- tennis.html -->
-<!-- Similar structure to index.html, but with content related to tennis -->
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="styles.css">
+    <title>Sports Hub - Tennis</title>
+</head>
+<body>
+    <header>
+        <h1>Sports Hub</h1>
+        <nav>
+            <ul>
+                <li><a href="index.html">Home</a></li>
+                <li><a href="football.html">Football</a></li>
+                <li><a href="basketball.html">Basketball</a></li>
+                <li><a href="tennis.html">Tennis</a></li>
+                <li><a href="cycling.html">Cycling</a></li>
+                <li><a href="swimming.html">Swimming</a></li>
+            </ul>
+        </nav>
+    </header>
+    
+    <section>
+        <h2>Tennis</h2>
+        <p>Tennis is a racquet sport played individually or in pairs...</p>
+    </section>
+
+    <script src="script.js"></script>
+</body>
+</html>
 <!-- cycling.html -->
-<!-- Similar structure to index.html, but with content related to cycling -->
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="styles.css">
+    <title>Sports Hub - Cycling</title>
+</head>
+<body>
+    <header>
+        <h1>Sports Hub</h1>
+        <nav>
+            <ul>
+                <li><a href="index.html">Home</a></li>
+                <li><a href="football.html">Football</a></li>
+                <li><a href="basketball.html">Basketball</a></li>
+                <li><a href="tennis.html">Tennis</a></li>
+                <li><a href="cycling.html">Cycling</a></li>
+                <li><a href="swimming.html">Swimming</a></li>
+            </ul>
+        </nav>
+    </header>
+    
+    <section>
+        <h2>Cycling</h2>
+        <p>Cycling involves riding bicycles for various purposes...</p>
+    </section>
+
+    <script src="script.js"></script>
+</body>
+</html>
 <!-- swimming.html -->
-<!-- Similar structure to index.html, but with content related to swimming -->
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="styles.css">
+    <title>Sports Hub - Swimming</title>
+</head>
+<body>
+    <header>
+        <h1>Sports Hub</h1>
+        <nav>
+            <ul>
+                <li><a href="index.html">Home</a></li>
+                <li><a href="football.html">Football</a></li>
+                <li><a href="basketball.html">Basketball</a></li>
+                <li><a href="tennis.html">Tennis</a></li>
+                <li><a href="cycling.html">Cycling</a></li>
+                <li><a href="swimming.html">Swimming</a></li>
+            </ul>
+        </nav>
+    </header>
+    
+    <section>
+        <h2>Swimming</h2>
+        <p>Swimming is a water-based sport where individuals or teams compete...</p>
+    </section>
+
+    <script src="script.js"></script>
+</body>
+</html>
+<!-- swimming.html -->
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="styles.css">
+    <title>Sports Hub - Swimming</title>
+</head>
+<body>
+    <header>
+        <h1>Sports Hub</h1>
+        <nav>
+            <ul>
+                <li><a href="index.html">Home</a></li>
+                <li><a href="football.html">Football</a></li>
+                <li><a href="basketball.html">Basketball</a></li>
+                <li><a href="tennis.html">Tennis</a></li>
+                <li><a href="cycling.html">Cycling</a></li>
+                <li><a href="swimming.html">Swimming</a></li>
+            </ul>
+        </nav>
+    </header>
+    
+    <section>
+        <h2>Swimming</h2>
+        <p>Swimming is a water-based sport where individuals or teams compete...</p>
+    </section>
+
+    <script src="script.js"></script>
+</body>
+</html>
 /* styles.css */
 body {
     font-family: Arial, sans-serif;
@@ -69,51 +251,5 @@ section {
 }
 // script.js
 document.addEventListener('DOMContentLoaded', function () {
-    const dynamicElement = document.createElement('p');
-    dynamicElement.textContent = 'Check out our latest articles!';
-    document.querySelector('section').appendChild(dynamicElement);
-});
-// script.js
-document.addEventListener('DOMContentLoaded', function () {
-    const dynamicElement = document.createElement('p');
-    dynamicElement.textContent = 'Click a button to learn more about the sport.';
-    document.querySelector('section').appendChild(dynamicElement);
-
-    function displaySportInfo(sport) {
-        const contentElement = document.getElementById('dynamic-content');
-        
-        // Define information for each sport
-        const sportsInfo = {
-            football: "Football is a popular sport played worldwide...",
-            basketball: "Basketball is a fast-paced sport played between two teams...",
-            tennis: "Tennis is a racquet sport played individually or in pairs...",
-            cycling: "Cycling involves riding bicycles for various purposes...",
-            swimming: "Swimming is a water-based sport where individuals or teams compete..."
-            // Add more sports as needed
-        };
-
-        // Update the content based on the selected sport
-        contentElement.innerHTML = sportsInfo[sport] || "Sorry, information not available.";
-    }
-
-    // Attach the function to the onclick events of the buttons
-    document.getElementById('football-btn').addEventListener('click', function () {
-        displaySportInfo('football');
-    });
-
-    document.getElementById('basketball-btn').addEventListener('click', function () {
-        displaySportInfo('basketball');
-    });
-
-    document.getElementById('tennis-btn').addEventListener('click', function () {
-        displaySportInfo('tennis');
-    });
-
-    document.getElementById('cycling-btn').addEventListener('click', function () {
-        displaySportInfo('cycling');
-    });
-
-    document.getElementById('swimming-btn').addEventListener('click', function () {
-        displaySportInfo('swimming');
-    });
+    // Add any dynamic content or scripts if needed
 });
